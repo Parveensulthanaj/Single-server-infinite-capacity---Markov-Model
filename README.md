@@ -34,7 +34,8 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 
-![imAGE](2.png)
+![Screenshot 2025-05-13 104956](https://github.com/user-attachments/assets/5beb7b52-633e-4932-9d44-65fd540f739a)
+
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
