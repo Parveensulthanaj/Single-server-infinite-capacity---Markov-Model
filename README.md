@@ -14,18 +14,36 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Procedure :
 
-![imAGE](2.png)
+1. Probability of zero units in the queue (𝑃0)=1−(𝜆
+ 𝜇
+ ) 
+2. Average queue length (𝐿𝑞)= 𝜆2
+ 𝜆(𝜆−𝜇)
+ 
+3. Average number of units in the system (𝐿𝑠)= 𝜇
+ 𝜆−𝜇
+ 
+4. Average waiting time of an arrival (𝑊𝑞)= 𝜆
+ 𝜇(𝜆−𝜇)
+ 
+5. Average waiting time of an arrival in the system (𝑊𝑠)= 1
+ 𝜆−𝜇
+
 
 
 
 ## Experiment:
 
-
+![imAGE](2.png)
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
 
+![4pqm](https://github.com/user-attachments/assets/3c2e4f6f-e7dc-4a5c-95f1-e78cfdfde332)
+
 ## Result :
 
+The average number of mateerials int the system and in conveyor and waiting
+time are successfully found.
